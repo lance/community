@@ -1,5 +1,5 @@
 name: Let us know you are using Knative
-description: Add your company or organization as an adopter of Knative. If your company is using Knative in production or some stage of development, please add your company information here and it will be added to the ADOPTERS.md file.
+description: If your company is using Knative in production or some stage of development, please add your company information here and it will be added to the ADOPTERS.md file.
 title: "[ADOPTERS]: ${COMPANY NAME HERE}"
 labels: ["kind/documentation", "size/S"]
 body:
